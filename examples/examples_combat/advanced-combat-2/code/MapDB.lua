@@ -1,0 +1,4 @@
+MapDB =
+{
+    ["arena"] = CreateArenaMap,
+}

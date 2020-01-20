@@ -1,0 +1,245 @@
+256 sound channels found.
+Reloading [settings.lua]
+[LUASTATE|Settings] DESTROYED
+Screen res changed occured.
+Resetting render window 640 360
+Loading [Actions.lua]
+Last Modified [Wed Jun 19 10:08:11 2013]
+
+Loading [CaptionState.lua]
+Last Modified [Fri Jun 07 11:41:57 2013]
+
+Loading [CaptionStyles.lua]
+Last Modified [Fri Jun 07 11:52:34 2013]
+
+Loading [Character.lua]
+Last Modified [Tue Jun 11 11:00:12 2013]
+
+Loading [Dependencies.lua]
+Last Modified [Sun Jul 07 19:09:16 2013]
+
+Loading [Entity.lua]
+Last Modified [Tue Jun 11 09:20:11 2013]
+
+Loading [EntityDefs.lua]
+Last Modified [Wed Jun 19 15:15:30 2013]
+
+Loading [ExploreState.lua]
+Last Modified [Thu Jun 20 20:49:30 2013]
+
+Loading [FollowPathState.lua]
+Last Modified [Tue Jun 11 11:45:58 2013]
+
+Loading [FrontMenuState.lua]
+Last Modified [Fri Jun 21 11:42:39 2013]
+
+Loading [GameOverState.lua]
+Last Modified [Fri Jun 21 09:28:29 2013]
+
+Loading [Icons.lua]
+Last Modified [Wed May 22 13:25:34 2013]
+
+Loading [InGameMenuState.lua]
+Last Modified [Fri Jun 21 11:44:50 2013]
+
+Loading [ItemDB.lua]
+Last Modified [Wed May 22 10:23:36 2013]
+
+Loading [ItemMenuState.lua]
+Last Modified [Fri Jun 21 11:44:22 2013]
+
+Loading [Layout.lua]
+Last Modified [Tue May 21 16:43:09 2013]
+
+Loading [Map.lua]
+Last Modified [Thu Jun 20 10:42:07 2013]
+
+Loading [MapDB.lua]
+Last Modified [Thu Jun 20 17:13:20 2013]
+
+Loading [MoveState.lua]
+Last Modified [Thu Jun 20 10:47:48 2013]
+
+Loading [NPCStandState.lua]
+Last Modified [Sun Apr 07 12:31:27 2013]
+
+Loading [Panel.lua]
+Last Modified [Sat May 04 13:29:53 2013]
+
+Loading [PlanStrollState.lua]
+Last Modified [Sun Apr 07 15:39:28 2013]
+
+Loading [ProgressBar.lua]
+Last Modified [Tue Apr 30 18:02:26 2013]
+
+Loading [ScreenState.lua]
+Last Modified [Fri Jun 07 09:55:47 2013]
+
+Loading [Scrollbar.lua]
+Last Modified [Tue May 21 11:01:32 2013]
+
+Loading [Selection.lua]
+Last Modified [Tue Jun 18 14:15:54 2013]
+
+Loading [SleepState.lua]
+Last Modified [Mon Jun 10 11:21:21 2013]
+
+Loading [StateMachine.lua]
+Last Modified [Tue Jun 18 13:41:12 2013]
+
+Loading [StateStack.lua]
+Last Modified [Fri Jun 21 12:06:18 2013]
+
+Loading [Storyboard.lua]
+Last Modified [Thu Jun 20 11:59:11 2013]
+
+Loading [StoryboardEvents.lua]
+Last Modified [Thu Jun 20 15:19:40 2013]
+
+Loading [Textbox.lua]
+Last Modified [Wed Jun 19 13:22:49 2013]
+
+Loading [TitleScreenState.lua]
+Last Modified [Thu Jun 20 21:17:00 2013]
+
+Loading [Trigger.lua]
+Last Modified [Thu Jun 20 10:47:54 2013]
+
+Loading [Tween.lua]
+Last Modified [Thu Oct 11 11:11:15 2012]
+
+Loading [Util.lua]
+Last Modified [Fri Jun 07 11:47:52 2013]
+
+Loading [WaitState.lua]
+Last Modified [Tue Jun 18 13:41:26 2013]
+
+Loading [World.lua]
+Last Modified [Wed Jun 19 11:45:07 2013]
+
+Loading [bell]
+Last Modified [Tue Jun 18 08:31:51 2013]
+
+Being asked to load [bell]
+Loading [continue_caret.png]
+Last Modified [Wed Apr 24 16:24:17 2013]
+
+Loading [crumble]
+Last Modified [Tue Jun 18 15:08:11 2013]
+
+Being asked to load [crumble]
+Loading [cursor.png]
+Last Modified [Mon Apr 29 16:37:26 2013]
+
+Loading [default]
+Last Modified [Fri Jun 07 10:56:34 2013]
+
+Adding font [default]->[art/junction.ttf]
+Loading [door_break]
+Last Modified [Tue Jun 18 08:34:33 2013]
+
+Being asked to load [door_break]
+Loading [gradient_panel.png]
+Last Modified [Thu Apr 18 13:47:23 2013]
+
+Loading [grate]
+Last Modified [Thu Jun 20 10:23:44 2013]
+
+Being asked to load [grate]
+Loading [guard.png]
+Last Modified [Sat Jul 06 15:49:49 2013]
+
+Loading [hero.png]
+Last Modified [Sat Jul 06 15:49:49 2013]
+
+Loading [inventory_icons.png]
+Last Modified [Wed May 22 13:08:12 2013]
+
+Loading [key_item]
+Last Modified [Wed Jun 19 13:40:50 2013]
+
+Being asked to load [key_item]
+Loading [main.lua]
+Last Modified [Sat Aug 03 19:39:47 2013]
+
+Loading [map_jail.lua]
+Last Modified [Fri Aug 02 23:53:46 2013]
+
+Loading [map_sewer.lua]
+Last Modified [Sat Aug 03 19:02:42 2013]
+
+Loading [map_sontos_house.lua]
+Last Modified [Sat Jul 06 16:22:11 2013]
+
+Loading [prisoner.png]
+Last Modified [Sat Jul 06 15:49:49 2013]
+
+Loading [rain]
+Last Modified [Fri Jun 07 14:13:29 2013]
+
+Being asked to load [rain]
+Loading [reveal]
+Last Modified [Thu Jun 20 10:06:08 2013]
+
+Being asked to load [reveal]
+Loading [scrollbar.png]
+Last Modified [Thu May 09 08:49:27 2013]
+
+Loading [skeleton_destroy]
+Last Modified [Wed Jun 19 13:44:34 2013]
+
+Being asked to load [skeleton_destroy]
+Loading [sleeping.png]
+Last Modified [Sat Jul 06 13:59:28 2013]
+
+Loading [tileset_jail.png]
+Last Modified [Mon Jul 08 19:28:17 2013]
+
+Loading [tileset_sewer.png]
+Last Modified [Thu Aug 01 18:53:04 2013]
+
+Loading [tileset_sontos_house.png]
+Last Modified [Sat Jul 06 14:44:24 2013]
+
+Loading [title]
+Last Modified [Fri Jun 07 11:08:46 2013]
+
+Adding font [title]->[art/contra_italic.ttf]
+Loading [title_screen.png]
+Last Modified [Sat May 25 11:20:38 2013]
+
+Loading [unlock]
+Last Modified [Thu Jun 20 14:04:07 2013]
+
+Being asked to load [unlock]
+Loading [wagon]
+Last Modified [Tue Jun 18 09:01:58 2013]
+
+Being asked to load [wagon]
+Loading [wind]
+Last Modified [Tue Jun 18 09:01:23 2013]
+
+Being asked to load [wind]
+[LUASTATE|Manifest] DESTROYED
+Reloading project.
+
+Calling main_script main.lua at code/main.lua
+Reload success:
+blocking tile is	257
+Goto tile:	14	19
+function: 0x003af268	2
+2	function: 0x003af268
+Being asked to play [rain] Loop: [false]
+place	table: 0x05735bd8
+time	table: 0x003a42f8
+function: 0x003af268	2
+2	function: 0x003af268
+Being asked to play [door_break] Loop: [false]
+Being asked to play [bell] Loop: [false]
+Being asked to play [bell] Loop: [false]
+Being asked to play [wagon] Loop: [false]
+Being asked to play [wind] Loop: [false]
+time_passes	table: 0x05735db8
+place	table: 0x003a42f8
+blocking tile is	257
+Ad
