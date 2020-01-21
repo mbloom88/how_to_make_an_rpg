@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://entities/characters/CharacterTemplate.tscn" type="PackedScene" id=1]
+[ext_resource path="res://entities/characters/npcs/scripts/npc.gd" type="Script" id=2]
+
+[node name="NPCTemplate" index="0" instance=ExtResource( 1 )]
+script = ExtResource( 2 )
+
+[node name="Inactive" type="Node" parent="States" index="0"]
+
+[node name="Idle" type="Node" parent="States" index="1"]
+
+[node name="Wander" type="Node" parent="States" index="2"]
+
+[node name="Move" type="Node" parent="States" index="3"]

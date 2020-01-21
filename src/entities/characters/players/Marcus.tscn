@@ -1,0 +1,50 @@
+[gd_scene load_steps=14 format=2]
+
+[ext_resource path="res://entities/characters/players/PlayerTemplate.tscn" type="PackedScene" id=1]
+[ext_resource path="res://assets/gfx/spritesheets/characters/walk_cycle.png" type="Texture" id=2]
+[ext_resource path="res://entities/characters/players/marcus/animations/SETUP.anim" type="Animation" id=3]
+[ext_resource path="res://entities/characters/players/marcus/animations/idle_down.anim" type="Animation" id=4]
+[ext_resource path="res://entities/characters/players/marcus/animations/idle_left.anim" type="Animation" id=5]
+[ext_resource path="res://entities/characters/players/marcus/animations/idle_right.anim" type="Animation" id=6]
+[ext_resource path="res://entities/characters/players/marcus/animations/idle_up.anim" type="Animation" id=7]
+[ext_resource path="res://entities/characters/players/marcus/animations/move_down.anim" type="Animation" id=8]
+[ext_resource path="res://entities/characters/players/marcus/animations/move_left.anim" type="Animation" id=9]
+[ext_resource path="res://entities/characters/players/marcus/animations/move_right.anim" type="Animation" id=10]
+[ext_resource path="res://entities/characters/players/marcus/animations/move_up.anim" type="Animation" id=11]
+
+[sub_resource type="AtlasTexture" id=1]
+atlas = ExtResource( 2 )
+region = Rect2( 0, 0, 256, 216 )
+
+[sub_resource type="RectangleShape2D" id=2]
+extents = Vector2( 6, 6 )
+
+[node name="Marcus" instance=ExtResource( 1 )]
+reference = "marcus"
+
+[node name="Sprite" parent="." index="2"]
+texture = SubResource( 1 )
+vframes = 9
+hframes = 16
+frame = 8
+
+[node name="AnimationPlayer" parent="Sprite" index="0"]
+anims/SETUP = ExtResource( 3 )
+anims/idle_down = ExtResource( 4 )
+anims/idle_left = ExtResource( 5 )
+anims/idle_right = ExtResource( 6 )
+anims/idle_up = ExtResource( 7 )
+anims/move_down = ExtResource( 8 )
+anims/move_left = ExtResource( 9 )
+anims/move_right = ExtResource( 10 )
+anims/move_up = ExtResource( 11 )
+
+[node name="CollisionShape2D" parent="." index="3"]
+position = Vector2( 0, 8 )
+shape = SubResource( 2 )
+
+[node name="StateLabel" parent="." index="4"]
+margin_left = -19.5068
+margin_top = -27.6039
+margin_right = 20.4932
+margin_bottom = -13.6039

@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://command_programs/command_master/scripts/command_master.gd" type="Script" id=1]
+
+[node name="CommandMaster" type="Node"]
+script = ExtResource( 1 )

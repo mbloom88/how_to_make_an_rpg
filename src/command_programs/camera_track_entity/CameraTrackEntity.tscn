@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://command_programs/camera_track_entity/scripts/camera_track_entity.gd" type="Script" id=1]
+
+[node name="CameraTrackEntity" type="Node"]
+script = ExtResource( 1 )
