@@ -28,8 +28,8 @@ CommandConsole="*res://autoloads/command_console/CommandConsole.tscn"
 
 [display]
 
-window/size/width=320
-window/size/height=224
+window/size/width=512
+window/size/height=288
 window/size/borderless=true
 window/size/fullscreen=true
 window/vsync/use_vsync=false
@@ -89,6 +89,7 @@ move_right={
 
 [rendering]
 
+quality/2d/gles2_use_nvidia_rect_flicker_workaround=true
 quality/2d/use_pixel_snap=true
 environment/default_clear_color=Color( 0, 0, 0, 1 )
 environment/default_environment="res://default_env.tres"

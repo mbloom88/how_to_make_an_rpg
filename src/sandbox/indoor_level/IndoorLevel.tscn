@@ -15,7 +15,7 @@
 [ext_resource path="res://command_programs/delay/Delay.tscn" type="PackedScene" id=13]
 [ext_resource path="res://command_programs/activate_character/ActivateCharacter.tscn" type="PackedScene" id=14]
 
-[node name="IndoorLevel" instance=ExtResource( 1 )]
+[node name="IndoorLevel" index="0" instance=ExtResource( 1 )]
 
 [node name="BGCollision" parent="." index="1"]
 tile_set = ExtResource( 2 )
